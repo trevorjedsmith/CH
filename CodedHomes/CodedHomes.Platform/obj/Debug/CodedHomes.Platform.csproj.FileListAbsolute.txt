@@ -1,0 +1,12 @@
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Platform\bin\Debug\CodedHomes.Platform.dll.config
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Platform\bin\Debug\CodedHomes.Platform.dll
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Platform\bin\Debug\CodedHomes.Platform.pdb
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Platform\bin\Debug\CodedHomes.Models.dll
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Platform\bin\Debug\EntityFramework.dll
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Platform\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Platform\bin\Debug\CodedHomes.Models.pdb
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Platform\bin\Debug\EntityFramework.xml
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Platform\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Platform\obj\Debug\CodedHomes.Platform.csprojResolveAssemblyReference.cache
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Platform\obj\Debug\CodedHomes.Platform.dll
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Platform\obj\Debug\CodedHomes.Platform.pdb

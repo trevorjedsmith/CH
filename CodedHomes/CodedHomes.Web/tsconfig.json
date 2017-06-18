@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": false,
+    "target": "es5",
+    "outDir": "Scripts/app"
+  },
+  "exclude": [
+    "node_modules",
+    "bower_components",
+    "Scripts/typings",
+    "Test/Scripts"
+  ]
+}

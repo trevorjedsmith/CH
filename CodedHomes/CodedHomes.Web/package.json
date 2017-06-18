@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "name": "CodedHomes",
+  "private": true,
+  "devDependencies": {
+    "del": "^2.2.1",
+    "typescript": "latest",
+    "merge-stream": "^1.0.0",
+    "promise": "7.0.3"
+  },
+  "dependencies": {}
+}
