@@ -9,7 +9,9 @@ namespace CodedHomes.Web
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
-                        "~/Scripts/lib/jquery-{version}.js", "~/Scripts/lib/knockout-{version}.js"));
+                        "~/Scripts/lib/jquery-{version}.js", 
+                        "~/Scripts/lib/knockout-{version}.js",
+                        "~/Scripts/lib/toastr.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
                         "~/Scripts/lib/jquery.validate*"));
