@@ -5,5 +5,10 @@
 <div class="jumbotron">
     <h1>Coded Homes Landing Page...</h1>
     <p class="lead">Welcome to Coded Homes - the leader for homes in the California Area</p>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <a href="@Url.Action("Index","Homes")" class="btn btn-success btn-large">View our homes</a>
+    }
+    
 </div>
 

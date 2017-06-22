@@ -31,6 +31,8 @@ C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin
 C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\Antlr3.Runtime.dll
 C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\CodedHomes.Models.dll
 C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\CodedHomes.Platform.dll
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\Elmah.dll
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\Elmah.Mvc.dll
 C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\EntityFramework.dll
 C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\EntityFramework.SqlServer.dll
 C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\Microsoft.AI.Agent.Intercept.dll
@@ -67,6 +69,7 @@ C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin
 C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\System.Web.WebPages.dll
 C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\System.Web.WebPages.Razor.dll
 C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\WebGrease.dll
+C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\System.Data.SqlServerCe.dll
 C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\CodedHomes.Models.pdb
 C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\CodedHomes.Platform.pdb
 C:\Users\Win7\Desktop\Books To Complete\CodedHomes\CodedHomes\CodedHomes.Web\bin\CodedHomes.Platform.dll.config

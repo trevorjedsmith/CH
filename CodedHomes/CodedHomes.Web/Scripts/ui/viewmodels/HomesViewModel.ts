@@ -24,12 +24,6 @@
          
         }
 
-
-        //applyProducts = (data: any) => {
-        //    this.productsList.removeAll();
-        //    this.productsList.push.apply(this.productsList, data.Products);
-        //}
-
         showError = (error: any) => {
             this.errorMessage(error);
             $('#error-container').fadeIn();

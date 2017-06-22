@@ -19,6 +19,15 @@ var CodedHomes;
             });
         };
         ;
+        CodedHomesDataService.prototype.saveImage = function (data) {
+            return $.ajax({
+                type: CodedHomes.Constants.BasePOSTMethod,
+                url: '/homes/uploadImage',
+                processData: false,
+                contentType: false,
+                data: data
+            });
+        };
         CodedHomesDataService.prototype.del = function (data, apiUrl) {
             return this.commit(CodedHomes.Constants.BaseDeleteMethod, apiUrl + data.id, null);
         };
@@ -26,9 +35,9 @@ var CodedHomes;
         CodedHomesDataService.prototype.save = function (data, apiUrl) {
             var type = CodedHomes.Constants.BasePOSTMethod;
             var url = apiUrl;
-            if (data.id > 0) {
+            if (data.Id > 0) {
                 type = CodedHomes.Constants.BasePUTMethod;
-                url += '/' + data.id;
+                url += '/' + data.Id;
             }
             return this.commit(type, url, data);
         };

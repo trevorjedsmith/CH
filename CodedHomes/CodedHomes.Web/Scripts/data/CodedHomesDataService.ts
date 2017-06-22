@@ -31,6 +31,16 @@ namespace CodedHomes {
 
         };
 
+        saveImage(data: any) {
+            return $.ajax({
+                type: Constants.BasePOSTMethod,
+                url: '/homes/uploadImage',
+                processData: false,
+                contentType: false,
+                data: data
+            });
+        }
+
         del(data: any, apiUrl: string) {
             return this.commit(Constants.BaseDeleteMethod, apiUrl + data.id, null);
         };
@@ -39,9 +49,9 @@ namespace CodedHomes {
             let type = Constants.BasePOSTMethod;
             let url = apiUrl;
 
-            if (data.id > 0) {
+            if (data.Id > 0) {
                 type = Constants.BasePUTMethod;
-                url += '/' + data.id;
+                url += '/' + data.Id;
             }
 
             return this.commit(type, url, data);
